@@ -1,0 +1,10 @@
+* defmemo
+
+Memoizing defun
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/orivej/defmemo.git   |
+| commit  | 4b9a772  |
+| systems | defmemo |
+|---------+-------------------------------------------|
+
